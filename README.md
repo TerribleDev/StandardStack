@@ -4,11 +4,11 @@ Nancyfx asp.net hosted project, with self hosted other project.
 
 ## Nuget packages
 
-*Dapper
-*Fluent
-*Squishit
-*Nancy stuff
-*NUnit
+* Dapper
+* Fluent
+* Squishit
+* Nancy stuff
+* NUnit
 
 
 ## Rake Tasks
