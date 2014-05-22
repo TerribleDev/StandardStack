@@ -11,4 +11,6 @@ Nancyfx asp.net hosted project, with self hosted other project.
 *NUnit
 
 
-## This has some basic rake tasks as well for building and what not
+## Rake Tasks
+
+This has some basic rake tasks as well for building and what not
